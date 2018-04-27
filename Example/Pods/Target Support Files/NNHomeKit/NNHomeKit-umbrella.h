@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "NNHomeDetailViewController.h"
+#import "NNHomeKit.h"
 
 FOUNDATION_EXPORT double NNHomeKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char NNHomeKitVersionString[];
